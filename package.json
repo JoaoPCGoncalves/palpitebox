@@ -1,0 +1,25 @@
+{
+  "name": "01palpitebox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "keywords": [],
+  "author": "João Gonçalves",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^9.8.8",
+    "google-spreadsheet": "^3.2.0",
+    "moment": "^2.29.1",
+    "next": "^9.4.4",
+    "postcss-import": "^12.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "swr": "^0.2.3",
+    "tailwindcss": "^1.9.6"
+  }
+}
